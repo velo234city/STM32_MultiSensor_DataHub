@@ -1,0 +1,9 @@
+#Ignored Folders
+Drivers/
+MDK-ARM/
+
+#Ignored File
+*.mxproject
+
+
+
